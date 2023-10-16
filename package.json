@@ -2,7 +2,7 @@
   "name": "night-owl-colorful-html",
   "displayName": "Night Owl Colorful HTML",
   "description": "A theme is based on Night Owl with more colors in the HTML tags.",
-  "version": "0.0.2",
+  "version": "0.1.2",
 	"publisher": "Sakata",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"repository": {
@@ -21,6 +21,11 @@
         "label": "Night Owl Colorful HTML",
         "uiTheme": "vs-dark",
         "path": "./themes/NightOwlColorfulHTML-color-theme.json"
+      },
+      {
+        "label": "Night Owl Colorful HTML (No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NightOwlColorfulHTML-color-theme-noitalic.json"
       }
     ]
   },

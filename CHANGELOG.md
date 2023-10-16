@@ -2,6 +2,11 @@
 
 All notable changes to the "night-owl-colorful-html" extension will be documented in this file.
 
+## [0.1.2] - 2023-10-16
+
+### Added
+- Introduced italic patterns for enhanced text formatting.
+
 ## "0.0.2" - 2023-10-16
 
 ### Added
