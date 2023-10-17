@@ -2,6 +2,11 @@
 
 All notable changes to the "night-owl-colorful-html" extension will be documented in this file.
 
+## "1.0.1" - 2023-10-18
+
+### Added
+- Supplemental text in README.
+
 ## "1.0.0" - 2023-10-17
 
 ### Added
