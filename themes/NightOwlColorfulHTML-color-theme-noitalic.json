@@ -2235,16 +2235,8 @@
 		}
 
 
-		//custom
+		// custom
 		,
-		{
-			"scope": [
-				"meta.attribute.unrecognized.property entity.other.attribute-name"
-			],
-			"settings": {
-				"foreground": "#C5E478"
-			}
-		},
 		{
 			"scope": [
 				"meta.tag.metadata.link entity.name.tag",
@@ -2255,7 +2247,7 @@
 				"meta.attribute.target entity.other.attribute-name",
 				"meta.attribute.rel entity.other.attribute-name",
 				"meta.scope.tag.a entity.name.tag",
-				"meta.scope.tag.a punctuation.definition.tag",
+				"meta.scope.tag.a punctuation.definition.tag"
 			],
 			"settings": {
 				"foreground": "#53f551"
@@ -2263,6 +2255,7 @@
 		},
 		{
 			"scope": [
+				"meta.attribute.unrecognized.property entity.other.attribute-name",
 				"meta.tag.inline.br entity.name.tag",
 				"meta.tag.inline.br punctuation.definition.tag",
 				"meta.scope.tag.br entity.name.tag",
@@ -2287,7 +2280,7 @@
 				"meta.tag.structure.meter entity.name.tag",
 				"meta.tag.structure.meter punctuation.definition.tag",
 				"meta.scope.tag.meter entity.name.tag",
-				"meta.scope.tag.meter punctuation.definition.tag",
+				"meta.scope.tag.meter punctuation.definition.tag"
 			],
 			"settings": {
 				"foreground": "#C5E478"
@@ -2308,7 +2301,6 @@
 				"meta.scope.tag.label entity.name.tag",
 				"meta.scope.tag.label punctuation.definition.tag",
 				"meta.attribute.for entity.other.attribute-name",
-
 				"meta.tag.structure.article entity.name.tag",
 				"meta.tag.structure.article punctuation.definition.tag",
 				"meta.scope.tag.article entity.name.tag",
@@ -2355,7 +2347,7 @@
 				"meta.tag.structure.figure punctuation.definition.tag",
 				"meta.scope.tag.figure entity.name.tag",
 				"meta.scope.tag.figure punctuation.definition.tag",
-				"meta.attribute.class entity.other.attribute-name",
+				"meta.attribute.class entity.other.attribute-name"
 			],
 			"settings": {
 				"foreground": "#bac6d5"
@@ -2398,7 +2390,7 @@
 				"meta.tag.structure.hr entity.name.tag",
 				"meta.tag.structure.hr punctuation.definition.tag",
 				"meta.scope.tag.hr entity.name.tag",
-				"meta.scope.tag.hr punctuation.definition.tag",
+				"meta.scope.tag.hr punctuation.definition.tag"
 			],
 			"settings": {
 				"foreground": "#7FDBCA"
@@ -2486,7 +2478,6 @@
 				"foreground": "#82AAFF"
 			}
 		},
-
 		{
 			"scope": [
 				"meta.element.structure.svg entity.name.tag",
@@ -2579,7 +2570,7 @@
 				"meta.scope.tag.object punctuation.definition.tag",
 				"entity.name.tag.template.html",
 				"entity.name.tag.template punctuation.definition.tag",
-				"support.class.component",
+				"support.class.component"
 			],
 			"settings": {
 				"foreground": "#efe899"
@@ -2607,14 +2598,12 @@
 				"entity.name.tag.script.html",
 				"meta.tag.metadata.script punctuation.definition.tag",
 				"meta.scope.tag.script entity.name.tag",
-				"meta.scope.tag.script punctuation.definition.tag",
+				"meta.scope.tag.script punctuation.definition.tag"
 			],
 			"settings": {
 				"foreground": "#ECC48D"
 			}
 		},
-
-
 		{
 			"scope": [
 			],
@@ -2657,7 +2646,7 @@
 				"meta.tag.other.unrecognized punctuation.definition.tag",
 				"meta.scope.tag.search entity.name.tag",
 				"meta.scope.tag.search punctuation.definition.tag",
-				"meta.attribute.data-x entity.other.attribute-name",
+				"meta.attribute.data-x entity.other.attribute-name"
 			],
 			"settings": {
 				"foreground": "#eaa4bd"
@@ -2689,7 +2678,7 @@
 				"meta.attribute.src entity.other.attribute-name",
 				"meta.attribute.alt entity.other.attribute-name",
 				"meta.attribute.width entity.other.attribute-name",
-				"meta.attribute.height entity.other.attribute-name",
+				"meta.attribute.height entity.other.attribute-name"
 			],
 			"settings": {
 				"foreground": "#f581c2"
@@ -2790,7 +2779,7 @@
 				"meta.scope.tag.caption entity.name.tag",
 				"meta.scope.tag.caption punctuation.definition.tag",
 				"meta.attribute.media entity.other.attribute-name",
-				"meta.attribute.id entity.other.attribute-name",
+				"meta.attribute.id entity.other.attribute-name"
 			],
 			"settings": {
 				"foreground": "#ce97f3"

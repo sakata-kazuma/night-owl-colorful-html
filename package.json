@@ -1,34 +1,44 @@
 {
-  "name": "night-owl-colorful-html",
-  "displayName": "Night Owl Colorful HTML",
-  "description": "A theme is based on Night Owl with more colors in the HTML tags.",
-  "version": "0.1.2",
+	"name": "night-owl-colorful-html",
+	"displayName": "Night Owl Colorful HTML",
+	"description": "A theme is based on Night Owl with more colors in the HTML tags.",
+	"version": "1.0.0",
 	"publisher": "Sakata",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/sakata-kazuma/night-owl-colorful-html"
 	},
-  "engines": {
-    "vscode": "^1.83.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Night Owl Colorful HTML",
-        "uiTheme": "vs-dark",
-        "path": "./themes/NightOwlColorfulHTML-color-theme.json"
-      },
-      {
-        "label": "Night Owl Colorful HTML (No Italics)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/NightOwlColorfulHTML-color-theme-noitalic.json"
-      }
-    ]
-  },
+	"engines": {
+		"vscode": "^1.83.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night Owl Colorful HTML",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NightOwlColorfulHTML-color-theme.json"
+			},
+			{
+				"label": "Night Owl Colorful HTML (No Italics)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NightOwlColorfulHTML-color-theme-noitalic.json"
+			},
+			{
+				"label": "Night Owl Colorful HTML Light",
+				"uiTheme": "vs",
+				"path": "./themes/NightOwlColorfulHTML-Light-color-theme.json"
+			},
+			{
+				"label": "Night Owl Colorful HTML Light (No Italics)",
+				"uiTheme": "vs",
+				"path": "./themes/NightOwlColorfulHTML-Light-color-theme-noitalic.json"
+			}
+		]
+	},
 	"galleryBanner": {
 		"color": "#01000e",
 		"theme": "dark"
@@ -36,9 +46,11 @@
 	"keywords": [
 		"Theme",
 		"Dark Theme",
+		"Light Theme",
+		"Night Theme",
 		"color-theme",
 		"html",
-    "colorful"
+		"colorful"
 	],
 	"icon": "images/icon.png"
 }
