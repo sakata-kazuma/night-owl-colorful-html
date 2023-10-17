@@ -2,6 +2,8 @@
 
 This is a Microsoft Visual Studio theme based on [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) with more colors in the HTML tags.
 
+[Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)をベースに各HTMLタグへ色を追加したテーマです。
+
 ## Dark Theme
 
 ![](https://raw.githubusercontent.com/sakata-kazuma/night-owl-colorful-html/main/images/code.png)
